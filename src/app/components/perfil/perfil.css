@@ -1,0 +1,15 @@
+.targeta-perfil {
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  padding: 20px;
+  margin: 15px;
+  background-color: #f9f9f9;
+  font-family: Arial, sans-serif;
+  max-width: 350px;
+  box-shadow: 2px 2px 8px rgba(0,0,0,0.1);
+}
+
+.targeta-perfil h2 {
+  margin-top: 0;
+  color: #333;
+}
